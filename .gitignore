@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+out/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Application
+uploads/          # Uploaded files directory
+data/             # H2 database files
+*.log
+logs/
+tmp/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Spring Boot
+spring-boot-devtools.properties
