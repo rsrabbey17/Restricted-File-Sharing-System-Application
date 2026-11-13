@@ -2,14 +2,13 @@
 
 A production-style REST API for secure file sharing built with **Spring Boot 3.4.2** and **Java 21**. Features JWT authentication, email verification, granular per-user file access control, and transactional upload/revoke operations.
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-brightgreen)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6.x-brightgreen)
+![H2](https://img.shields.io/badge/H2-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Supported-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-
-
-
-\
-
-
----
 
 ## 📋 Table of Contents
 
